@@ -11,5 +11,5 @@ import Foundation
 print("Hello, World!")
 print("Cody Staker")
 print("Mr. Merwine")
-print("RLabrador19")
-print("John Cena")
+print("Sebo")
+print("Hannah")
