@@ -15,13 +15,9 @@ print("Mr. Merwine")
 print("Hunter Conrad")
 print("John Cena")
 print("Julianne")
-print("Jose Marcos(Mexasorous)")
 print("Alex Young")
 print("Taichen")
 print("Sebo")
 print("John Cena")
-
-
-
 print("Alex Young")
 print("Jaschon Baumann")
