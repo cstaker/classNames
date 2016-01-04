@@ -8,6 +8,8 @@
 //
 
 import Foundation
+print("Dominic A Dausey")
+print("Hello, World!")
 print("Garrett Machen")
 
 print("Cody Staker")
@@ -26,7 +28,6 @@ print("Taichen")
 print("MStevens19")
 print("Jose Marcos(Mexasorous)")
 print("Jaschon Baumann")
-print("RLabrador19")
 print("Gabe Eck")
 print("Alex Young")
 print("Jericho Hagen - Rhoads ")
