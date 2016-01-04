@@ -13,12 +13,5 @@ print("Hello, World!")
 print("Cody Staker")
 print("Mr. Merwine")
 print("Julianne")
-print("Jose Marcos(Mexasorous)")
 print("Alex Young")
-print("Taichen")
-print("Sebo")
-
-
-
-
-print("Alex Young")
+print("Jaschon Baumann")
