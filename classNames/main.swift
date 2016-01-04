@@ -8,7 +8,6 @@
 //
 
 import Foundation
-
 print("Garrett Machen")
 
 print("Cody Staker")
@@ -22,5 +21,6 @@ print("John Cena")
 print("Alex Young")
 print("Taichen")
 print("MStevens19")
-print("RLabrador19")
+print("Jose Marcos(Mexasorous)")
 print("Jaschon Baumann")
+print("Jericho Hagen - Rhoads ")
