@@ -8,14 +8,13 @@
 //
 
 import Foundation
+
 print("Garrett Machen")
-print("Hello, World!")
+
 print("Cody Staker")
 print("Mr. Merwine")
 print("Taichen")
 print("Hunter Conrad")
-print("John Cena")
-print("Pepe meme lord")
 print("Julianne")
 print("Alex Young")
 print("Sebo")
