@@ -25,8 +25,4 @@ print("John Cena")
 print("Alex Young")
 print("Jaschon Baumann")
 print("RLabrador19")
-
-
-
-
 print("Alex Young")
