@@ -24,29 +24,3 @@ print("Jose Marcos(Mexasorous)")
 print("John Cena")
 print("Jaschon Baumann")
 print("RLabrador19")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
