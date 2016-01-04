@@ -11,8 +11,6 @@ import Foundation
 print("Dominic A Dausey")
 print("All ye who enter this list, know rest from chaos!")
 print("Garrett Machen")
-
-print("Garrett Machen")
 print("Cody Staker")
 print("Mr. Merwine")
 print("Taichen")
