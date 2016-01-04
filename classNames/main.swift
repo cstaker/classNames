@@ -8,8 +8,8 @@
 //
 
 import Foundation
-print("Dominic A Dausey missed the ship.")
-print("All ye who enter this list, know rest from chaos!")
+print("Dominic A Dausey")
+print("Hello, World!")
 print("Garrett Machen")
 print("Cody Staker")
 print("Mr. Merwine")
